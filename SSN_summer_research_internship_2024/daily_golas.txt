@@ -1,0 +1,16 @@
+Date -> 22/05/2024
+----------------------------------------------------------------------------------------------------------
+
+-- search for datasets which is have pose classification pictures
+-- study related poses and classifications
+
+Date -> 23/05/2024
+---------------------------------------------------------------------------------------------------------
+
+-- Gather meta data to the datasets
+
+Date -> 24/05/2024
+---------------------------------------------------------------------------------------------------------
+
+-- finalize datasets
+-- show demo on pose classification using OpenCV-python and pretrained models
